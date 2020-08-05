@@ -15,6 +15,12 @@ public class RestAPI_Test_4Git {
     @Test
     public void deleteFb(){
         System.out.println("deleteFb");
+        System.out.println("deleteFb");
+
+        System.out.println("American deleteFB");
+
+        System.out.println("American delete FB");
+
     }
 
 }
