@@ -12,4 +12,9 @@ public class RestAPI_Test_4Git {
         System.out.println("deleteTwitter");
     }
 
+    @Test
+    public void deleteFb(){
+        System.out.println("deleteFb");
+    }
+
 }
